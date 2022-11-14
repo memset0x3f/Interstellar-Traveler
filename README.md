@@ -1,4 +1,4 @@
-This project is created for ENGG1330 Droup Project (A text-based game).
+This project is created for ENGG1330 Group Project (A text-based game).
 
 ## IMPORTANT: 
   The game can only run on UNIX-based terminal because our code is based on a built-in module 'curses'. This module is only used for UNIX terminal.
